@@ -35,6 +35,11 @@ Contact Us
 ===========
 engineering@naukri.com
 
+Contributors
+=============
+Gaurav Kumar
+Minni Arora
+
 LICENSE
 ========
 Copyright(c) 2015 Naukri.com
